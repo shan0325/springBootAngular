@@ -61,7 +61,7 @@ var AppService = ng.core.Injectable({}).Class({constructor: [ng.http.Http, funct
 
     }
 
-}]});
+}]})
 
 var RequestOptionsService = ng.core.Class({
     extends: ng.http.BaseRequestOptions,
