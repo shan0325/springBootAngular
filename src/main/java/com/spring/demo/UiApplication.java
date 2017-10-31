@@ -1,4 +1,4 @@
-package com.spring.web.demo;
+package com.spring.demo;
 
 import java.security.Principal;
 import java.util.HashMap;
