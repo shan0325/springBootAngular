@@ -1,4 +1,4 @@
-package com.spring.blog.web;
+package com.spring.heroes.web;
 
 import java.util.Arrays;
 import java.util.HashMap;
@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.spring.blog.domain.Hero;
+import com.spring.heroes.domain.Hero;
 
 @RestController
 public class MainController {

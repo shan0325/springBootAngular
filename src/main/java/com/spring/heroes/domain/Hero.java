@@ -1,4 +1,4 @@
-package com.spring.blog.domain;
+package com.spring.heroes.domain;
 
 public class Hero {
 	
